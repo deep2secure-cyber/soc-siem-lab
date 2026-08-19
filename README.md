@@ -30,7 +30,10 @@ The forwarder initially failed to collect Sysmon events with errorCode=5 (Access
 Detection query correctly identified 7 failed logon attempts across two accounts within a 5-minute window, matching the simulated attack.
 
 ## Screenshots
-See the /screenshots folder in this repo.
+
+<img width="1786" height="1077" alt="Screenshot 2026-08-19 at 3 13 57 PM" src="https://github.com/user-attachments/assets/3e4dfdef-754c-4bed-8257-d7385a3b4a38" />
+
+<img width="894" height="738" alt="Screenshot 2026-08-19 at 3 14 40 PM" src="https://github.com/user-attachments/assets/c7f94b28-08a4-4038-9279-d55d48211381" />
 
 ## Skills demonstrated
 SIEM configuration, Windows event log analysis, Sysmon deployment, SPL query writing, detection engineering, Splunk alerting, Windows service permissions troubleshooting.
